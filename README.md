@@ -1,3 +1,5 @@
+## I make app with tutorial of youtube channel "nghiepuit"
+## Thank you channel https://www.youtube.com/channel/UCxRgDi15EJsB2ayyP-eg3Tg
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
