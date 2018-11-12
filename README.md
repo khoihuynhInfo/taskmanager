@@ -1,4 +1,4 @@
-## Demo link https://kleeptaskmanager.herokuapp.com/
+Demo link https://kleeptaskmanager.herokuapp.com/
 ## I make app with tutorial of youtube channel "nghiepuit"
 Thank you channel https://www.youtube.com/channel/UCxRgDi15EJsB2ayyP-eg3Tg
 ## This is first app, I want exercise reactjs after 1 month i study,
